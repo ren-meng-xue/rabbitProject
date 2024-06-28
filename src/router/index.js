@@ -1,7 +1,7 @@
 
 //createRouter创建路由实例
 //createWebHistory 创建history路由
-
+console.log(1);
 import { createRouter, createWebHistory } from 'vue-router'
 
 import Login from '@/views/Login/index.vue'
